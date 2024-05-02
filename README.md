@@ -2,6 +2,10 @@
 
 Welcome to the **Pandemicrs** project! This interactive simulation visualizes the spread of an infectious disease among a simulated population within a graphical environment, crafted using Rust and Raylib.
 
+<!-- add image from ./resources/pandemicrs.png -->
+
+![Pandemicrs Simulation](./resources/pandemicrs.png)
+
 ## 📋 Features
 
 -  **Real-time Simulation**: Watch as a virtual population interacts and experiences the spread of an infection in real-time.
