@@ -4,7 +4,7 @@ Welcome to the **Pandemicrs** project! This interactive simulation visualizes th
 
 <!-- add image from ./resources/pandemicrs.png -->
 
-![Pandemicrs Simulation](./resources/pandemicrs.png)
+![Pandemicrs image](./resources/pandemicrs.png)
 
 ## 📋 Features
 
