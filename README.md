@@ -15,7 +15,7 @@ Welcome to the **Pandemicrs** project! This interactive simulation visualizes th
 ### Prerequisites
 
 -  Ensure you have [Rust installed](https://www.rust-lang.org/tools/install) on your system.
--  You will need the graphical library Raylib. Instructions for installing Raylib can be found [here](https://github.com/raysan5/raylib).
+-  Run `cargo add raylib`
 
 ### Running the Simulation
 
